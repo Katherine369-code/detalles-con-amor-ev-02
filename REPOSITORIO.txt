@@ -1,0 +1,6 @@
+ENLACE DEL REPOSITORIO — AA2_EV02
+
+Pega aquí la URL real del repositorio GitHub/GitLab donde publiques este proyecto.
+No uses el enlace de un archivo ZIP; utiliza la página principal del repositorio.
+
+Ejemplo de formato: https://github.com/USUARIO/KATHERINECARVAJAL_AA2_EV02

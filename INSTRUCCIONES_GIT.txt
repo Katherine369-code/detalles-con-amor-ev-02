@@ -1,0 +1,19 @@
+CONTROL DE VERSIONES CON GIT
+
+1. Instala Git: https://git-scm.com/downloads
+2. Abre una terminal dentro de la carpeta del proyecto.
+3. Si aún no existe repositorio local:
+   git init
+   git add .
+   git commit -m "Inicializa módulo web Servlets y JSP"
+   git branch -M main
+4. Crea un repositorio en GitHub con el nombre KATHERINECARVAJAL_AA2_EV02. Si vas a subir este proyecto, no inicialices el repositorio remoto con README, licencia ni .gitignore.
+5. Conecta el remoto (reemplaza la URL con la URL real de tu repositorio):
+   git remote add origin https://github.com/TU-USUARIO/KATHERINECARVAJAL_AA2_EV02.git
+   git push -u origin main
+6. Para publicar cambios:
+   git add .
+   git commit -m "Describe el cambio realizado"
+   git push
+
+Si ya tienes un repositorio local, no repitas git init ni agregues un segundo remoto llamado origin. Usa git remote -v para revisarlo.
